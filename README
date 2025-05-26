@@ -1,0 +1,34 @@
+# 🧮 Calculator App
+
+A sleek and modern calculator built using **HTML, CSS, and JavaScript**. Inspired by real-world calculator layouts, this app supports all basic arithmetic operations and has a responsive, mobile-friendly design.
+
+---
+
+## 🚀 Features
+
+- Clean and intuitive user interface
+- Basic operations: `+`, `-`, `×`, `÷`
+- Additional functions:
+  - `AC` – Clear all
+  - `+/-` – Toggle positive/negative
+  - `%` – Percentage calculation
+  - `Del` – Delete last digit
+- Decimal point handling
+- Fully responsive layout
+- Keyboard input support *(optional based on your code)*
+
+---
+
+## 🛠️ Built With
+
+- **HTML** – Structure
+- **CSS** – Styling and layout
+- **JavaScript** – Logic and interactivity
+
+---
+
+## 📁 How to Run the App
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/calculator-app.git
